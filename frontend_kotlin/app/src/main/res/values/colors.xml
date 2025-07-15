@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#3949AB</color>
+    <color name="secondary">#FBC02D</color>
+    <color name="accent">#D32F2F</color>
+    <!-- Special visuals for kings and queens -->
+    <color name="kingColor">#3949AB</color>
+    <color name="queenColor">#FBC02D</color>
+    <color name="highlight">#D32F2F</color>
+</resources>

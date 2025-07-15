@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew assembleDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/royal-thrones-tic-tac-toe-2d9699d2/frontend_kotlin"
+}

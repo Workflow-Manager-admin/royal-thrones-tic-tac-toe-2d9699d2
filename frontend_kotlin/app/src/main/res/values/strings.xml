@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Royal Thrones Tic Tac Toe</string>
+    <string name="turn_king">King Xs turn</string>
+    <string name="turn_queen">Queen Os turn</string>
+    <string name="winner_king">King X wins!</string>
+    <string name="winner_queen">Queen O wins!</string>
+    <string name="draw">Its a draw!</string>
+    <string name="restart">Restart</string>
+    <string name="reset">Reset</string>
+</resources>
